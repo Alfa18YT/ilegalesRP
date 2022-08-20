@@ -91,8 +91,6 @@ main .sobre-nosotros{
     display: flex;
     justify-content: space-evenly;
     color: #000000;
-    background: -prefix-linear-gradient(left, rgb(255, 255, 255), rgba(183, 0, 255, 0.541));
-    background: linear-gradient(to right, rgb(255, 255, 255), rgba(183, 0, 255, 0.541));
 }
 
 .imagen-about-us{
