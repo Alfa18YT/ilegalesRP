@@ -30,9 +30,9 @@ header {
     height: 1000px;
     background: #962626;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, hsla(340, 95%, 50%, 0.459), hsla(317, 45%, 52%, 0.664)), url(https://i.ibb.co/nkj5Nn3/Portada.png);
+    background: -webkit-linear-gradient(to right, hsla(340, 95%, 50%, 0.459), hsla(317, 45%, 52%, 0.664)), url(https://i.ibb.co/D8qS8zk/Wallpaper.png);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, hsla(0, 0%, 0%, 0), hsla(0, 0%, 0%, 0)), url(https://i.ibb.co/nkj5Nn3/Portada.png);
+    background: linear-gradient(to right, hsla(0, 0%, 0%, 0), hsla(0, 0%, 0%, 0)), url(https://i.ibb.co/D8qS8zk/Wallpaper.png);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-attachment: fixed;
@@ -66,18 +66,14 @@ header .textos-header{
 }
 
 .textos-header h1{
-    font-size: 50px;
-    color:#ffffff;
-    background: -prefix-linear-gradient(top, rgb(0, 0, 0), rgb(255, 255, 255));
-    background: linear-gradient(to bottom, rgb(0, 0, 0), rgb(255, 255, 255));
+    font-size: 60px;
+    color:#000000;
 }
 
 .textos-header h2{
-    font-size: 30px;
-    font-weight: 300;
-    color:rgb(255, 255, 255);
-    background: -prefix-linear-gradient(top, rgb(255, 255, 255), rgb(0, 0, 0));
-    background: linear-gradient(to bottom, rgb(255, 255, 255), rgb(0, 0, 0));
+    font-size: 35px;
+    font-weight: 400;
+    color:rgb(0, 0, 0);
 }
 
 .wave{
